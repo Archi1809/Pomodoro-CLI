@@ -1,4 +1,5 @@
 # study stream aliases
+# Requires https://github.com/caarlos0/timer to be installed.
 
 declare -A pomo_options
 pomo_options["work"]="45"
